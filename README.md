@@ -1,4 +1,4 @@
-Project members:
-Ahmed Mortada Ahmed Mahrous
-Ahmed Sokrat Farghaly Abd el kadr
+Project members: 
+Ahmed Mortada Ahmed Mahrous...
+Ahmed Sokrat Farghaly Abdelkadr...
 George Maged Yousef Ghatas
