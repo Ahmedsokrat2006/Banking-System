@@ -15,7 +15,7 @@ Features:
 How to Use:
 
     Choose what action you’d like to perform (create an account, log in, etc.).
-    Follow the prompts to complete the action (e.g., enter your account ID, PIN,       or amount of money).
+    Follow the prompts to complete the action (e.g., enter your account ID, PIN, or amount of money).
     The system will guide you through the process with helpful messages.
 Project authors/members: 
 1)Ahmed Mortada Ahmed Mahrous.....
