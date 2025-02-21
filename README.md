@@ -8,7 +8,7 @@ Features:
     Deposit & Withdraw Money: Add or take out money from your account.
     Check Balance: View the current balance of your account.
     Transfer Money: Send money to another account.
-    Currency Converter: Convert money between different currencies (e.g., USD,         EUR, SAR).
+    Currency Converter: Convert money between different currencies (e.g., USD, EUR, SAR).
     Close Account: Delete your account when you're done.
     Logout: Securely log out of your account.
 
